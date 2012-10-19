@@ -24,7 +24,6 @@ public class Browser extends Activity {
 
         super.onCreate(savedInstanceState);
 
-       
         setContentView(R.layout.activity_browser);
         // Go full screen
         	final Window window = getWindow();
